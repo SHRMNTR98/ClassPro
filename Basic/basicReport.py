@@ -1,3 +1,10 @@
+#!/usr/bin/python3
+#######################################################################################
+# basicReport.py - v1.1.0
+#   Fixed by: W Sherman
+#   Last Updated: July 6th, 2021
+######################################################################################
+
 import os
 import sys
 import time
@@ -27,7 +34,6 @@ except Exception as exception:
 #========================================================================================
 # Functions defined to setup matplot prowIN output 
 #========================================================================================
-
 #setup calendar background
 def calendarSetup(titleString):
 
@@ -53,6 +59,7 @@ def calendarSetup(titleString):
 
 #plot courses on the background we just defined 
 def plotCourses(CourseList, TestAxis, InstructorList):
+    #define colors for plotting
     ColorList = ["CornflowerBlue", "Olive", "Chartreuse", "Gold", "GoldenRod", \
                  "Thistle", "PapayaWhip", "Black", "DarkBlue", "DimGray", \
                  "Yellow", "Silver", "Snow", "Pink", "Teal", \
@@ -76,6 +83,7 @@ def plotCourses(CourseList, TestAxis, InstructorList):
                     count = count + 1
             concurCourses[day, int((timeSlot - 7) * 60)] = count
     
+    #plot each course on its rspective graph
     for course in CourseList:
         if (course.BeginTime != None and course.EndTime != None):
             beginTIndex = int((course.BeginTime - 7) * 60)
@@ -103,6 +111,9 @@ def plotCourses(CourseList, TestAxis, InstructorList):
     
     TestAxis.legend(loc="lower right")
 
+#========================================================================
+# Class to create course objects for each row in dataframe
+#========================================================================
 class classRecord:
     def __init__(self,index,dept,ssts,crn,course,sec,days,time,loc,inst):
         self.ACTIVE = ssts
@@ -154,8 +165,10 @@ class classRecord:
             self.BUILDING = None
             self.ROOM = None
 
-            
 
+#========================================================================
+# Import csv into pandas dataframe and make class objects out of each row
+#========================================================================
 #Take in csv file path from user and notify if not found
 try:
     csv = sys.argv[1] 
@@ -174,6 +187,10 @@ for i in range(0,len(df)):
 
 print(len(courseList))
 
+
+#========================================================================
+# Sort course objects into thier respective groupings
+#========================================================================
 InstructorList = []
 
 BLYCourses = []
@@ -269,6 +286,9 @@ for course in courseList:
         if (course.ROOM == 3):
             LSLH3Courses.append(course)
 
+#========================================================================
+# Make PDF and the save each figure to a new page
+#========================================================================
 with PdfPages("CourseReport.pdf") as pdf:
     for i in range(len(typeList)):
         TestFig1, TestAxis1 = calendarSetup(figTitles[i])
