@@ -9,6 +9,7 @@ import os
 import sys
 import time
 
+req = ['numpy','pandas','matplotlib']
 try:
     import numpy as np
     import pandas as pd
@@ -23,7 +24,12 @@ except ImportError as error:
     time.sleep(1)
     print('Installing needed software in 10sec... (Press ctrl & Z to abort install)')
     time.sleep(10) 
-    os.system('pip3 install -r requirements.txt')
+    for i in req:
+        try:
+            os.system('pip3 install {}'.format(i))
+        except error:
+            print('Error installing dependencies... ')
+            quit()
 except Exception as exception:
     # Output unexpected Exceptions.
     print(exception, False)
