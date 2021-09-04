@@ -26,6 +26,7 @@ except ImportError as error:
     time.sleep(10) 
     for i in req:
         try:
+            os.system('python3 pip install --upgrade pip')
             os.system('pip3 install {}'.format(i))
         except error:
             print('Error installing dependencies... ')
