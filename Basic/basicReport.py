@@ -209,27 +209,27 @@ Level500Courses = []
 Level300and400Courses = []
 Core_Courses = []
 
-LSCB18Courses = []
-LSCB43Courses = []
-LSCB45Courses = []
-LSCB119Courses = []
-LSCB131Courses = []
-LSCB139Courses = []
-LSCB142Courses = []
-LSCB144Courses = []
-LSCB211Courses = []
-LSCB219Courses = []
-LSCB225Courses = []
-LSCB226Courses = []
-LSCB237Courses = []
-LSCB240Courses = []
-LSCB241Courses = []
+ELSCB18Courses = []
+ELSCB43Courses = []
+ELSCB45Courses = []
+ELSCB119Courses = []
+ELSCB131Courses = []
+ELSCB139Courses = []
+ELSCB142Courses = []
+ELSCB144Courses = []
+ELSCB211Courses = []
+ELSCB219Courses = []
+ELSCB225Courses = []
+ELSCB226Courses = []
+ELSCB237Courses = []
+ELSCB240Courses = []
+ELSCB241Courses = []
 LSLH3Courses = []
 
 typeList = [BLYCourses,Level101_102Courses,Level121_122Courses,Level300Courses,Level400Courses,
-    Level500Courses,Level300and400Courses,Core_Courses,LSCB18Courses,LSCB43Courses,LSCB45Courses,
-    LSCB119Courses,LSCB131Courses,LSCB139Courses,LSCB142Courses,LSCB144Courses,LSCB211Courses,
-    LSCB219Courses,LSCB225Courses,LSCB226Courses,LSCB237Courses,LSCB240Courses,LSCB241Courses,
+    Level500Courses,Level300and400Courses,Core_Courses,ELSCB18Courses,ELSCB43Courses,ELSCB45Courses,
+    ELSCB119Courses,ELSCB131Courses,ELSCB139Courses,ELSCB142Courses,ELSCB144Courses,ELSCB211Courses,
+    ELSCB219Courses,ELSCB225Courses,ELSCB226Courses,ELSCB237Courses,ELSCB240Courses,ELSCB241Courses,
     LSLH3Courses]
 
 figTitles = ["BLY Courses","BLY 100-102 Courses","BLY 121-122 Courses","300 Level Courses",
@@ -258,37 +258,37 @@ for course in courseList:
     if (float(course.COURSE) >= 300 and float(course.COURSE) < 306):
         Core_Courses.append(course)
         
-    if course.BUILDING == 'LSCB':
+    if course.BUILDING == 'LSCB' or 'ELSCB':
         if (course.ROOM == 18):
-            LSCB18Courses.append(course)
+            ELSCB18Courses.append(course)
         if (course.ROOM == 43):
-            LSCB43Courses.append(course)
+            ELSCB43Courses.append(course)
         if (course.ROOM == 45):
-            LSCB45Courses.append(course)
+            ELSCB45Courses.append(course)
         if (course.ROOM == 119):
-            LSCB119Courses.append(course)
+            ELSCB119Courses.append(course)
         if (course.ROOM == 131):
-            LSCB131Courses.append(course)
+            ELSCB131Courses.append(course)
         if (course.ROOM == 139):
-            LSCB139Courses.append(course)
+            ELSCB139Courses.append(course)
         if (course.ROOM == 142):
-            LSCB142Courses.append(course)
+            ELSCB142Courses.append(course)
         if (course.ROOM == 144):
-            LSCB144Courses.append(course)
+            ELSCB144Courses.append(course)
         if (course.ROOM == 211):
-            LSCB211Courses.append(course)
+            ELSCB211Courses.append(course)
         if (course.ROOM == 219):
-            LSCB219Courses.append(course)
+            ELSCB219Courses.append(course)
         if (course.ROOM == 225):
-            LSCB225Courses.append(course)
+            ELSCB225Courses.append(course)
         if (course.ROOM == 226):
-            LSCB226Courses.append(course)
+            ELSCB226Courses.append(course)
         if (course.ROOM == 237):
-            LSCB237Courses.append(course)
+            ELSCB237Courses.append(course)
         if (course.ROOM == 240):
-            LSCB240Courses.append(course)
+            ELSCB240Courses.append(course)
         if (course.ROOM == 241):
-            LSCB241Courses.append(course)
+            ELSCB241Courses.append(course)
     elif course.BUILDING == 'LSLH':
         if (course.ROOM == 3):
             LSLH3Courses.append(course)
