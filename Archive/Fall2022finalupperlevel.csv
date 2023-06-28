@@ -1,0 +1,63 @@
+COLLEGE,DEPT,SSTS,CRN,COURSE,SEC,TITLE,PT TRM,CR,CONT,DAYS,TIME,LOCATION,SCD OVR,SD,INSM,IP,INSTRUCTOR,INS OVR,PRIMARY,% RESPONSE,SAPR,FEE,FEE DETL,MAX CAP,TERMS
+College of Arts and Sciences,BLY,A,17404,BLY300,101,Ecology,1,3.0,3.0,TR,1530  1645,LSLH 0003,,LE,WE,C,J Henning,,Y,100,,,,80,0
+College of Arts and Sciences,BLY,A,11239,BLY301,101,Cell Biology,1,3.0,3.0,MWF,1430  1520,LSLH 0003,,LE,WE,C,T Sherman,,Y,100,,,,105,0
+College of Arts and Sciences,BLY,A,11478,BLY302,101,Genetics,1,3.0,3.0,MWF,1115  1205,LSLH 0003,,LE,WE,C,J Strickland,,Y,100,,,,95,0
+College of Arts and Sciences,BLY,A,17268,BLY302,802,Genetics,1,3.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,S Ní Chadhain,,Y,100,,,,50,0
+College of Arts and Sciences,BLY,A,17268,BLY302,802,FULLY ONLINE SECTION.  This course is offered via,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,17268,BLY302,802,Internet only and has no scheduled  times.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,17268,BLY302,802,USA online courses are offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,14205,BLY304,101,Exp. Designs in Biology,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,10,0
+College of Arts and Sciences,BLY,A,17411,BLY305,101,Introduction to Evolution,1,3.0,3.0,TR,0930  1045,CB 0160,,LE,WE,C,J Strickland,,Y,100,,,,80,0
+College of Arts and Sciences,BLY,X,15472,BLY310,101,Economic Botany,1,3.0,3.0,TR,1600  1715,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,12267,BLY314,101,Molecular Microbiology - W,1,4.0,6.0,TR,0800  0915,LSCB 0131,O,CE,WE,C,S Ní Chadhain,,Y,100,,75.00,EBLY,15,0
+College of Arts and Sciences,BLY,A,12267,BLY314,101,Molecular Microbiology - W,1,4.0,6.0,W,1115  1345,LSCB 0219,,CE,WE,C,S Ní Chadhain,,Y,100,,75.00,EBLY,15,0
+College of Arts and Sciences,BLY,X,13521,BLY314,102,Molecular Microbiology - W,1,4.0,6.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,75.00,EBLY,0,0
+College of Arts and Sciences,BLY,A,10309,BLY332,101,Biology of Algae,1,4.0,6.0,M,1220  1450,LSCB 0211,,CE,WE,C,K Major,,Y,100,,,,16,0
+College of Arts and Sciences,BLY,A,10309,BLY332,101,Biology of Algae,1,4.0,6.0,MWF,0905  0955,LSCB 0211,,CE,WE,C,K Major,,Y,100,,,,16,0
+College of Arts and Sciences,BLY,A,16988,BLY333,101,Biomedical Ethics - W,1,3.0,3.0,TR,1230  1345,HUMB 0112,O,LE,WE,C,P McElroy,O,Y,100,,,,15,0
+College of Arts and Sciences,BLY,A,16989,BLY333,102,Biomedical Ethics - W,1,3.0,3.0,TR,1100  1215,HUMB 0148,O,LE,WE,C,P McElroy,O,Y,100,,,,16,0
+College of Arts and Sciences,BLY,A,16989,BLY333,102,Cross-listed with PHL 333.102. Credit cannot be received for,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,16989,BLY333,102,both BLY 333.102 and PHL 333.102.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,11593,BLY350,101,Human Physiology,1,3.0,3.0,TR,1100  1215,LSCB 0131,,LE,WE,C,E Itza,,Y,100,,,,35,0
+College of Arts and Sciences,BLY,A,14201,BLY354,101,General Entomology,1,4.0,6.0,T,1430  1700,LSCB 0139,,CE,WE,C,J McCreadie,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,A,14201,BLY354,101,General Entomology,1,4.0,6.0,TR,1100  1215,LSCB 0139,,CE,WE,C,J McCreadie,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,X,16607,BLY354,102,General Entomology,1,4.0,6.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,15747,BLY360,501,Invertebrate Zoology,1,4.0,5.0,M,1800  2030,LSCB 0018,,CE,WE,C,R Moody,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,A,15747,BLY360,501,Invertebrate Zoology,1,4.0,5.0,T,1800  2030,LSCB 0240,,CE,WE,C,R Moody,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,A,14465,BLY411,101,Developmental Biology,1,3.0,3.0,MWF,1115  1205,LSCB 0018,,CE,WE,C,T Tran,O,Y,100,,,,12,0
+College of Arts and Sciences,BLY,X,15326,BLY411,102,Developmental Biology,1,3.0,3.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,X,13517,BLY426,101,Freshwater Ecology,1,3.0,5.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,13561,BLY431,101,Plant Physiology - W,1,4.0,6.0,MWF,1115  1205,LSCB 0131,,CE,WE,C,T Sherman,,Y,100,,22.00,ECPT,20,0
+College of Arts and Sciences,BLY,A,13561,BLY431,101,Plant Physiology - W,1,4.0,6.0,T,1400  1700,LSCB 0237,,CE,WE,C,T Sherman,,Y,100,,22.00,ECPT,20,0
+College of Arts and Sciences,BLY,A,13562,BLY436,101,Animal Physiology - W,1,4.0,7.0,MWF,1220  1310,LSCB 0018,,CE,WE,C,J Perez,,Y,100,,15.00,EBLY,15,0
+College of Arts and Sciences,BLY,A,13562,BLY436,101,Animal Physiology - W,1,4.0,7.0,W,1400  1700,LSCB 0237,,CE,WE,C,J Perez,,Y,100,,15.00,EBLY,15,0
+College of Arts and Sciences,BLY,X,13563,BLY436,102,Animal Physiology - W,1,4.0,7.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,A,10310,BLY440,101,Biochemistry I,1,3.0,3.0,TR,1230  1345,HUMB 0160,O,LE,WE,C,L Yet,O,Y,100,,,,35,0
+College of Arts and Sciences,BLY,A,10310,BLY440,101,Cross-listed with CH 440.101. Credit cannot be received,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10310,BLY440,101,for both BLY 440.101 and CH 440.101.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,13028,BLY445,101,Computational Genetics-W,1,3.0,3.0,MWF,0905  0955,LSCB 0241,,CE,WE,C,G Borchert,O,Y,100,,,,8,0
+College of Arts and Sciences,BLY,X,17267,BLY450,101,Animal Behavior,1,4.0,6.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,11744,BLY459,101,General Parasitology,1,4.0,4.0,MWF,1010  1100,LSCB 0018,,CE,WE,C,J O'Brien,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,A,11744,BLY459,101,General Parasitology,1,4.0,4.0,W,1430  1700,LSCB 0240,,CE,WE,C,J O'Brien,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,X,13491,BLY459,102,General Parasitology,1,4.0,4.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,13029,BLY484,101,Conservation Biology,1,3.0,3.0,TR,0800  0915,LSCB 0018,,LE,WE,C,J Henning,,Y,100,,,,35,0
+College of Arts and Sciences,BLY,X,17093,BLY484,102,Conservation Biology,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,X,12708,BLY490,101,Sp Top-Vertebrate Form & Func,1,4.0,4.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,IN,,,0,0
+College of Arts and Sciences,BLY,X,13173,BLY490,102,Sp Top-Generation Emergent -H,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,IN,,,0,0
+College of Arts and Sciences,BLY,X,14093,BLY490,104,Special Topics -Paleobotany,1,4.0,4.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,X,15280,BLY490,106,Sp Top - Dendrology,1,4.0,4.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,17398,BLY490,107,SpTp: Molecular Plant-Microbe,1,3.0,3.0,TR,0930  1045,LSCB 0018,,LE,WE,C,T Tran,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,A,13520,BLY510,101,Prof in Science,1,3.0,3.0,T,0930  1200,LSCB 0211,,LE,WE,C,K Major,,Y,100,,,,15,0
+College of Arts and Sciences,BLY,A,14456,BLY511,101,Developmental Biology,1,3.0,3.0,MWF,1115  1205,LSCB 0018,O,LE,WE,C,T Tran,O,Y,100,,,,3,0
+College of Arts and Sciences,BLY,X,15327,BLY511,102,Developmental Biology,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,14742,BLY520,101,Biometry,1,4.0,4.0,TR,1230  1400,LSCB 0139,,CE,WE,C,J McCreadie,,Y,100,,15.00,ECPT,10,0
+College of Arts and Sciences,BLY,X,13518,BLY526,101,Freshwater Ecology,1,3.0,5.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,X,14098,BLY530,101,Marine Microbial Ecology,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,17143,BLY536,101,Advanced Animal Physiology,1,3.0,3.0,MWF,1220  1310,LSCB 0018,O,LE,WE,C,J Perez,O,Y,100,,,,5,0
+College of Arts and Sciences,BLY,A,11105,BLY540,101,Biochemistry I,1,3.0,3.0,TR,1230  1345,HUMB 0160,O,LE,WE,C,L Yet,O,Y,100,,,,2,0
+College of Arts and Sciences,BLY,A,11105,BLY540,101,Cross-listed with CH 540.101.  Credit cannot be received for,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,11105,BLY540,101,both BLY 540.101 and CH 440.101.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,13519,BLY544,101,Molecular Biology,1,3.0,3.0,TR,1630  1745,LSCB 0131,,LE,WE,C,L Frost,,Y,100,,,,10,0
+College of Arts and Sciences,BLY,X,14199,BLY590,101,Sp Tp-Conservation Genetics,1,4.0,4.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,X,15451,BLY590,102,Special Topics-Lab Curriculum,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,17618,BLY590,103,SpTp: Writing for Biologists,1,3.0,3.0,W,1800  2030,LSCB 0018,,LE,WE,C,J Henning,,Y,100,,,,10,0

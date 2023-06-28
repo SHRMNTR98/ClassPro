@@ -196,7 +196,7 @@ print(len(courseList))
 
 
 #========================================================================
-# Sort course objects into thier respective groupings
+# Sort course objects into their respective groupings
 #========================================================================
 InstructorList = []
 
@@ -253,9 +253,9 @@ for course in courseList:
         Level400Courses.append(course)
     if (float(course.COURSE) >= 500 and float(course.COURSE) < 600):
         Level500Courses.append(course)
-    if (float(course.COURSE) >= 305 and float(course.COURSE) < 500):
+    if (float(course.COURSE) >= 306 and float(course.COURSE) < 500):
         Level300and400Courses.append(course)
-    if (float(course.COURSE) >= 301 and float(course.COURSE) < 304):
+    if (float(course.COURSE) >= 300 and float(course.COURSE) < 306):
         Core_Courses.append(course)
         
     if course.BUILDING == 'LSCB':
