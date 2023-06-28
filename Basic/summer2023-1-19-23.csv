@@ -1,0 +1,57 @@
+COLLEGE,DEPT,SSTS,CRN,COURSE,SEC,TITLE,PT TRM,CR,CONT,DAYS,TIME,LOCATION,SCD OVR,SD,INSM,IP,INSTRUCTOR,INS OVR,PRIMARY,% RESPONSE,SAPR,FEE,FEE DETL,MAX CAP,TERMS
+College of Arts and Sciences,BLY,A,30032,BLY101,805,Life Science I,1,3.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,C Delaney Tucker,,Y,100,,,,40,0
+College of Arts and Sciences,BLY,A,30032,BLY101,805,FULLY ONLINE SECTION.  This course is offered via internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,30032,BLY101,805,only and has no scheduled times.  USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,30032,BLY101,805,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,30034,BLY101L,701,Life Science I Laboratory,1,1.0,2.0,TBA,TBA  TBA,TBA,,BB,WB,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,A,30033,BLY101L,806,Life Science I Laboratory,1,1.0,2.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,C Delaney Tucker,,Y,100,,15.00,EBLY,40,0
+College of Arts and Sciences,BLY,A,30033,BLY101L,806,FULLY ONLINE SECTION.  This course is offered,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,30033,BLY101L,806,via Internet only and has no scheduled times.  USAonline,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,30033,BLY101L,806,courses are offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,31518,BLY102,601,Life Science II,27,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,IN,,,0,0
+College of Arts and Sciences,BLY,X,31518,BLY102,601,BLY 102.601 Natural History STUDY ABROAD,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,X,31518,BLY102,601,IN ECUADOR/GALAPAGOS,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,30036,BLY102,808,Life Science II,1,3.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,J Howell,,Y,100,,,,24,0
+College of Arts and Sciences,BLY,A,30036,BLY102,808,FULLY ONLINE SECTION.  This course is offered via internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,30036,BLY102,808,only and has no scheduled times.  USA online courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,30036,BLY102,808,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,31519,BLY102L,602,Life Science II Lab,27,1.0,2.0,TBA,TBA  TBA,TBA,,BE,WE,C,STAFF,,,,IN,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,31519,BLY102L,602,BLY 102L.602 Natural History STUDY,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,X,31519,BLY102L,602,ABROAD IN ECUADOR/GALAPAGOS,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,30037,BLY102L,809,Life Science II Lab,1,1.0,2.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,J Howell,,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,30037,BLY102L,809,FULLY ONLINE SECTION. This course is offered via internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,30037,BLY102L,809,only and has no scheduled times.  USA online courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,30037,BLY102L,809,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,30039,BLY121,101,General Biology I,1,3.0,3.0,MTWRF,1020  1115,LSLH 0003,,LE,WE,C,STAFF,,,,,,,40,0
+College of Arts and Sciences,BLY,X,30041,BLY121L,101,General Biology I Lab,1,1.0,3.0,TBA,TBA  TBA,TBA,,BE,WE,C,STAFF,,,,,38.00,EBLY,0,0
+College of Arts and Sciences,BLY,A,31459,BLY121L,102,General Biology I Lab,1,1.0,3.0,TR,1230  1500,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,30046,BLY122,101,General Biology II,1,3.0,3.0,MTWR,1325  1435,LSLH 0003,,LE,WE,C,E Itza,,Y,100,,,,32,0
+College of Arts and Sciences,BLY,A,30047,BLY122L,101,General Biology II Laboratory,1,1.0,3.0,TR,0800  1030,LSCB 0226,,BE,WE,C,E Itza,,Y,100,,40.00,EBLY,24,0
+College of Arts and Sciences,BLY,X,31772,BLY122L,102,General Biology II Laboratory,1,1.0,3.0,TBA,TBA  TBA,TBA,,BE,WE,C,STAFF,,,,,40.00,EBLY,0,0
+College of Arts and Sciences,BLY,A,30054,BLY205,801,Intro Environmental Sci,1,4.0,4.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,C Delaney Tucker,,Y,100,,,,20,0
+College of Arts and Sciences,BLY,A,30054,BLY205,801,FULLY ONLINE SECTION.  This course is offered via internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,30054,BLY205,801,only and has no scheduled times.  USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,30054,BLY205,801,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,30205,BLY213,805,Microbiology,7,3.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,T Hamil,,Y,100,,,,55,0
+College of Arts and Sciences,BLY,A,30205,BLY213,805,FULLY ONLINE SECTION.  This course is offered via internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,30205,BLY213,805,only and has no scheduled times.  USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,30205,BLY213,805,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,31568,BLY214,802,Lab Studies Microbiology,7,1.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,T Hamil,,Y,100,,,,30,0
+College of Arts and Sciences,BLY,A,31568,BLY214,802,FULLY ONLINE SECTION.  This course is offered via,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,31568,BLY214,802,internet only and has no scheduled times.  USAonline,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,31568,BLY214,802,courses are offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,32646,BLY214,803,Lab Studies Microbiology,7,1.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,T Hamil,,Y,100,,,,25,0
+College of Arts and Sciences,BLY,A,32646,BLY214,803,FULLY ONLINE SECTION.  This course is offered via internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,32646,BLY214,803,only and has no scheduled times.  USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,32646,BLY214,803,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,30780,BLY301,807,Cell Biology,1,3.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,J Howell,,Y,100,,,,60,0
+College of Arts and Sciences,BLY,A,30780,BLY301,807,FULLY ONLINE SECTION.  This course is offered via internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,30780,BLY301,807,only and has no scheduled times. USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,30780,BLY301,807,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,31612,BLY302,804,Genetics,1,3.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,S Ní Chadhain,,Y,100,,,,40,0
+College of Arts and Sciences,BLY,A,31612,BLY302,804,FULLY ONLINE SECTION.  This course is offered via internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,31612,BLY302,804,only and has no scheduled times.  USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,31612,BLY302,804,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,32606,BLY310,101,Economic Botany,1,3.0,3.0,MTWRF,1350  1445,LSCB 0018,,LE,WE,C,J Mata,,Y,100,,,,13,0
+College of Arts and Sciences,BLY,A,32955,BLY490,607,SpTp: Natural History,27,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,IN,,,0,0
+College of Arts and Sciences,BLY,A,32955,BLY490,607,BLY 490.607 STUDY ABROAD IN ECUADOR/GALAPAGOS,,,,,,,,,,,,,,,,,,,1

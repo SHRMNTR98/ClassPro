@@ -1,0 +1,413 @@
+COLLEGE,DEPT,SSTS,CRN,COURSE,SEC,TITLE,PT TRM,CR,CONT,DAYS,TIME,LOCATION,SCD OVR,SD,INSM,IP,INSTRUCTOR,INS OVR,PRIMARY,% RESPONSE,SAPR,FEE,FEE DETL,MAX CAP,TERMS
+College of Arts and Sciences,BLY,A,13859,BLY101,101,Life Science I,LC1,3.0,3.0,MWF,1010  1100,LSLH 0003,,LE,WE,C,C Delaney Tucker,,Y,100,,,,155,0
+College of Arts and Sciences,BLY,A,10271,BLY101,102,Life Science I,1,3.0,3.0,MWF,1220  1310,LSLH 0003,,LE,WE,C,C Delaney Tucker,O,Y,100,,,,58,0
+College of Arts and Sciences,BLY,A,10523,BLY101,103,Life Science I,1,3.0,3.0,MWF,1535  1625,LSLH 0003,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,10620,BLY101,104,Life Science I,1,3.0,3.0,TR,1400  1515,LSLH 0003,,LE,WE,C,J Mata,,Y,100,,,,155,0
+College of Arts and Sciences,BLY,A,10620,BLY101,104,Cross-listed with PSG 090.159. Credit cannot be received for,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10620,BLY101,104,both BLY 101.104 and PSG 090.159.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,11212,BLY101,105,Life Science I,1,3.0,3.0,MWF,1325  1415,LSLH 0003,,LE,WE,C,J Howell,O,Y,100,,,,155,0
+College of Arts and Sciences,BLY,A,13860,BLY101,106,Life Science I,LC1,3.0,3.0,MWF,1220  1310,LSLH 0003,O,LE,WE,C,C Delaney Tucker,O,Y,100,,,,64,0
+College of Arts and Sciences,BLY,A,10698,BLY101,501,Life Science I,1,3.0,3.0,T,1800  2030,LSCB 0131,,LE,WE,C,N Hilbun,,Y,100,,,,30,0
+College of Arts and Sciences,BLY,A,10272,BLY101L,751,Life Science I Laboratory,1,1.0,2.0,M,1325  1505,LSCB 0144,,BB,WB,C,C Delaney Tucker,,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10272,BLY101L,751,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10272,BLY101L,751,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10272,BLY101L,751,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10272,BLY101L,751,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10272,BLY101L,751,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10273,BLY101L,752,Life Science I Laboratory,1,1.0,2.0,M,1325  1505,LSCB 0142,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10273,BLY101L,752,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10273,BLY101L,752,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10273,BLY101L,752,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10273,BLY101L,752,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10273,BLY101L,752,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10274,BLY101L,753,Life Science I Laboratory,1,1.0,2.0,M,1535  1715,LSCB 0144,,BB,WB,C,C Delaney Tucker,,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10274,BLY101L,753,WEB BLENDED SECTION.  This course reduces the on-campus,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10274,BLY101L,753,class time by utilizing electronic learning tools.  Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10274,BLY101L,753,additional fee of $35.00.  On-campus class meetings will be,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10274,BLY101L,753,at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10274,BLY101L,753,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10275,BLY101L,754,Life Science I Laboratory,1,1.0,2.0,M,1535  1715,LSCB 0142,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10275,BLY101L,754,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10275,BLY101L,754,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10275,BLY101L,754,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10275,BLY101L,754,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10275,BLY101L,754,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10276,BLY101L,755,Life Science I Laboratory,1,1.0,2.0,T,0800  0940,LSCB 0144,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10276,BLY101L,755,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10276,BLY101L,755,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10276,BLY101L,755,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10276,BLY101L,755,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10276,BLY101L,755,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10277,BLY101L,756,Life Science I Laboratory,1,1.0,2.0,T,0800  0940,LSCB 0142,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10277,BLY101L,756,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10277,BLY101L,756,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10277,BLY101L,756,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10277,BLY101L,756,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10277,BLY101L,756,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10278,BLY101L,757,Life Science I Laboratory,1,1.0,2.0,T,1000  1140,LSCB 0144,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,28,0
+College of Arts and Sciences,BLY,A,10278,BLY101L,757,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10278,BLY101L,757,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10278,BLY101L,757,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10278,BLY101L,757,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10278,BLY101L,757,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10279,BLY101L,758,Life Science I Laboratory,1,1.0,2.0,T,1000  1140,LSCB 0142,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,28,0
+College of Arts and Sciences,BLY,A,10279,BLY101L,758,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10279,BLY101L,758,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10279,BLY101L,758,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10279,BLY101L,758,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10279,BLY101L,758,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10280,BLY101L,759,Life Science I Laboratory,1,1.0,2.0,T,1400  1540,LSCB 0144,,BB,WB,C,C Delaney Tucker,,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10280,BLY101L,759,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10280,BLY101L,759,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10280,BLY101L,759,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10280,BLY101L,759,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10280,BLY101L,759,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10281,BLY101L,760,Life Science I Laboratory,1,1.0,2.0,T,1400  1540,LSCB 0142,,BB,WB,C,D Stults,,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10281,BLY101L,760,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10281,BLY101L,760,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10281,BLY101L,760,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10281,BLY101L,760,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10281,BLY101L,760,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10282,BLY101L,761,Life Science I Laboratory,1,1.0,2.0,T,1600  1740,LSCB 0144,,BB,WB,C,D Stults,,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10282,BLY101L,761,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10282,BLY101L,761,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10282,BLY101L,761,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10282,BLY101L,761,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10282,BLY101L,761,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10283,BLY101L,762,Life Science I Laboratory,1,1.0,2.0,T,1600  1740,LSCB 0142,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10283,BLY101L,762,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10283,BLY101L,762,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10283,BLY101L,762,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10283,BLY101L,762,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10283,BLY101L,762,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10668,BLY101L,763,Life Science I Laboratory,1,1.0,2.0,W,0800  0940,LSCB 0144,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10668,BLY101L,763,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10668,BLY101L,763,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10668,BLY101L,763,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10668,BLY101L,763,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10668,BLY101L,763,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,11026,BLY101L,764,Life Science I Laboratory,1,1.0,2.0,W,0800  0940,LSCB 0142,,BB,WB,C,J Howell,,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,11026,BLY101L,764,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,11026,BLY101L,764,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,11026,BLY101L,764,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,11026,BLY101L,764,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,11026,BLY101L,764,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,11027,BLY101L,765,Life Science I Laboratory,1,1.0,2.0,W,1220  1400,LSCB 0144,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,11027,BLY101L,765,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,11027,BLY101L,765,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,11027,BLY101L,765,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,11027,BLY101L,765,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,11027,BLY101L,765,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,11027,BLY101L,765,Cross-listed with PSG 090.176. Credit cannot be received for,,,,,,,,,,,,,,,,,,,6
+College of Arts and Sciences,BLY,A,11027,BLY101L,765,both BLY 101L.765 and PSG 090.176.,,,,,,,,,,,,,,,,,,,7
+College of Arts and Sciences,BLY,X,11028,BLY101L,766,Life Science I Laboratory,1,1.0,2.0,TBA,TBA  TBA,TBA,,BB,WB,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,11028,BLY101L,766,WEB BLENDED SECTION.  This course reduces the on-campus,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,X,11028,BLY101L,766,class time by utilizing electronic learning tools.  Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,X,11028,BLY101L,766,additional fee of $35.00.  On-campus class meetings will be,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,11028,BLY101L,766,at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,X,11028,BLY101L,766,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,11029,BLY101L,767,Life Science I Laboratory,1,1.0,2.0,W,1430  1610,LSCB 0144,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,11029,BLY101L,767,WEB BLENDED SECTION.  This course reduces the on-campus,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,11029,BLY101L,767,class time by utilizing electronic learning tools.  Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,11029,BLY101L,767,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,11029,BLY101L,767,be at the scheduled times.  USAonline courses are offered,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,11029,BLY101L,767,in Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10524,BLY101L,768,Life Science I Laboratory,1,1.0,2.0,W,1430  1610,LSCB 0142,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10524,BLY101L,768,WEB BLENDED SECTION.  This course reduces the,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10524,BLY101L,768,on-campus class time by utilizing electronic learning tools.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10524,BLY101L,768,Requires an additional fee of $35.00.  On-campus class,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10524,BLY101L,768,meetings will be at the scheduled times.  USAonline courses,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10524,BLY101L,768,are offered in Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10530,BLY101L,769,Life Science I Laboratory,1,1.0,2.0,R,0800  0940,LSCB 0144,,BB,WB,C,J Howell,,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10530,BLY101L,769,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10530,BLY101L,769,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10530,BLY101L,769,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10530,BLY101L,769,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10530,BLY101L,769,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10667,BLY101L,770,Life Science I Laboratory,1,1.0,2.0,R,0800  0940,LSCB 0142,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10667,BLY101L,770,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10667,BLY101L,770,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10667,BLY101L,770,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,10667,BLY101L,770,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10667,BLY101L,770,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,13288,BLY101L,771,Life Science I Laboratory,1,1.0,2.0,R,1000  1140,LSCB 0144,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,13288,BLY101L,771,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,13288,BLY101L,771,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,13288,BLY101L,771,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,13288,BLY101L,771,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,13288,BLY101L,771,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,13289,BLY101L,772,Life Science I Laboratory,1,1.0,2.0,R,1000  1140,LSCB 0142,,BB,WB,C,C Delaney Tucker,O,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,13289,BLY101L,772,WEB BLENDED SECTION. This course reduces the on-campus class,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,13289,BLY101L,772,time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,13289,BLY101L,772,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,13289,BLY101L,772,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,13289,BLY101L,772,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,X,10650,BLY101L,773,Life Science I Laboratory,1,1.0,2.0,TBA,TBA  TBA,TBA,,BB,WB,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,10650,BLY101L,773,WEB BLENDED SECTION.  This course reduces the on-campus,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,X,10650,BLY101L,773,class time by utilizing electronic learning tools.  Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,X,10650,BLY101L,773,additional fee of $35.00.  On-campus class meetings will be,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,10650,BLY101L,773,at the scheduled times.  USAonline courses are offered,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,X,10650,BLY101L,773,in Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,X,10666,BLY101L,774,Life Science I Laboratory,1,1.0,2.0,TBA,TBA  TBA,TBA,,BB,WB,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,10666,BLY101L,774,WEB BLENDED SECTION.  This course reduces the on-campus,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,X,10666,BLY101L,774,class time by utilizing electronic learning tools.  Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,X,10666,BLY101L,774,additional fee of $35.00.  On-campus class meetings will be,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,10666,BLY101L,774,at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,X,10666,BLY101L,774,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,X,10525,BLY101L,775,Life Science I Laboratory,1,1.0,2.0,TBA,TBA  TBA,TBA,,BB,WB,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,10525,BLY101L,775,WEB BLENDED SECTION.  This course reduces the on-campus,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,X,10525,BLY101L,775,class time by utilizing electronic learning tools.  Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,X,10525,BLY101L,775,additional fee of $35.00.  On-campus class meetings will be,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,10525,BLY101L,775,at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,X,10525,BLY101L,775,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,X,10529,BLY101L,776,Life Science I Laboratory,1,1.0,2.0,TBA,TBA  TBA,TBA,,BB,WB,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,10529,BLY101L,776,WEB BLENDED SECTION.  This course reduces the on-campus,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,X,10529,BLY101L,776,class time by utilizing electronic learning tools.  Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,X,10529,BLY101L,776,additional fee of $35.00.  On-campus class meetings will be,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,10529,BLY101L,776,at the scheduled times.  USAonline courses are offered,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,X,10529,BLY101L,776,in Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,X,10648,BLY101L,777,Life Science I Laboratory,1,1.0,2.0,TBA,TBA  TBA,TBA,,BB,WB,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,10648,BLY101L,777,WEB BLENDED SECTION.  This course reduces the on-campus,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,X,10648,BLY101L,777,class time by utilizing electronic learning tools.  Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,X,10648,BLY101L,777,additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,10648,BLY101L,777,be at the scheduled times.  USAonline courses are offered,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,X,10648,BLY101L,777,in Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,X,12983,BLY101L,778,Life Science I Laboratory,1,1.0,2.0,TBA,TBA  TBA,TBA,,BB,WB,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,12983,BLY101L,778,WEB BLENDED SECTION.  This course reduces the on-campus,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,X,12983,BLY101L,778,class time by utilizing electronic learning tools.  Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,X,12983,BLY101L,778,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,12983,BLY101L,778,be at the scheduled times.  USAonline courses are offered,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,X,12983,BLY101L,778,in Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,X,13290,BLY101L,779,Life Science I Laboratory,1,1.0,2.0,TBA,TBA  TBA,TBA,,BB,WB,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,13290,BLY101L,779,WEB BLENDED SECTION.  This course reduces the on-campus,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,X,13290,BLY101L,779,class time by utilizing electronic learning tools.  Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,X,13290,BLY101L,779,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,13290,BLY101L,779,be at the scheduled times.  USAonline courses are offered in,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,X,13290,BLY101L,779,Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,X,13292,BLY101L,780,Life Science I Laboratory,1,1.0,2.0,TBA,TBA  TBA,TBA,,BB,WB,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,13292,BLY101L,780,WEB BLENDED SECTION.  This course reduces the on-campus,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,X,13292,BLY101L,780,class time by utilizing electronic learning tools. Requires,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,X,13292,BLY101L,780,an additional fee of $35.00.  On-campus class meetings will,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,13292,BLY101L,780,be at the scheduled times.  USAonline courses are offered,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,X,13292,BLY101L,780,in Canvas.,,,,,,,,,,,,,,,,,,,5
+College of Arts and Sciences,BLY,A,10599,BLY102,101,Life Science II,1,3.0,3.0,MWF,0905  0955,LSLH 0003,,LE,WE,C,C Delaney Tucker,,Y,100,,,,155,0
+College of Arts and Sciences,BLY,A,10284,BLY102,501,Life Science II,1,3.0,3.0,M,1800  2030,LSCB 0131,,LE,WE,C,S Delchamps,,Y,100,,,,35,0
+College of Arts and Sciences,BLY,A,10522,BLY102L,101,Life Science II Lab,1,1.0,2.0,T,0930  1110,LSCB 0045,,BE,WE,C,J Howell,,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10600,BLY102L,102,Life Science II Lab,1,1.0,2.0,W,1010  1150,LSCB 0045,,BE,WE,C,J Howell,,Y,100,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10601,BLY102L,103,Life Science II Lab,1,1.0,2.0,W,1220  1400,LSCB 0045,,BE,WE,C,STAFF,,,,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10699,BLY102L,104,Life Science II Lab,1,1.0,2.0,R,0930  1110,LSCB 0045,,BE,WE,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,A,10285,BLY102L,501,Life Science II Lab,1,1.0,2.0,W,1800  1940,LSCB 0045,,BE,WE,C,STAFF,,,,,15.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10286,BLY121,101,General Biology I,1,3.0,3.0,TR,1230  1345,LSLH 0003,,LE,WE,C,STAFF,,,,,,,135,0
+College of Arts and Sciences,BLY,A,10287,BLY121,102,General Biology I,1,3.0,3.0,TR,1100  1215,LSLH 0003,,LE,WE,C,STAFF,,,,,,,47,0
+College of Arts and Sciences,BLY,A,13861,BLY121,103,General Biology I,LC1,3.0,3.0,TR,1100  1215,LSLH 0003,O,LE,WE,C,STAFF,,,,,,,93,0
+College of Arts and Sciences,BLY,X,14159,BLY121,104,General Biology I,LC1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,X,14449,BLY121,105,General Biology I,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,10585,BLY121,501,General Biology I,1,3.0,3.0,M,1800  2030,LSLH 0003,,LE,WE,C,R Adlington,,Y,100,,,,135,0
+College of Arts and Sciences,BLY,A,10288,BLY121L,101,General Biology I Lab,1,1.0,3.0,T,0800  1030,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10289,BLY121L,102,General Biology I Lab,1,1.0,3.0,T,1100  1330,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10290,BLY121L,103,General Biology I Lab,1,1.0,3.0,T,1400  1630,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10291,BLY121L,104,General Biology I Lab,1,1.0,3.0,W,0800  1030,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10297,BLY121L,105,General Biology I Lab -H,1,1.0,3.0,W,1430  1700,LSCB 0225,,BE,WE,C,J Mata,,Y,100,,38.00,EBLY,18,0
+College of Arts and Sciences,BLY,A,10297,BLY121L,105,Restricted to Honors students only.  Other students,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10297,BLY121L,105,require special permission.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10292,BLY121L,106,General Biology I Lab,1,1.0,3.0,W,1115  1345,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10293,BLY121L,107,General Biology I Lab,1,1.0,3.0,R,0930  1200,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10294,BLY121L,108,General Biology I Lab,1,1.0,3.0,R,1230  1500,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10295,BLY121L,109,General Biology I Lab,1,1.0,3.0,R,1530  1800,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,11677,BLY121L,110,General Biology I Lab,1,1.0,3.0,F,0800  1030,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10296,BLY121L,111,General Biology I Lab,1,1.0,3.0,F,1100  1330,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,12914,BLY121L,112,General Biology I Lab,1,1.0,3.0,F,1400  1630,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,X,13285,BLY121L,113,General Biology I Lab,1,1.0,3.0,TBA,TBA  TBA,TBA,,BE,WE,C,STAFF,,,,,38.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,14451,BLY121L,114,General Biology I Lab,1,1.0,3.0,TBA,TBA  TBA,TBA,,BE,WE,C,STAFF,,,,,38.00,EBLY,0,0
+College of Arts and Sciences,BLY,A,10586,BLY121L,501,General Biology I Lab,1,1.0,3.0,T,1800  2030,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,11686,BLY121L,502,General Biology I Lab,1,1.0,3.0,W,1800  2030,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,12283,BLY121L,503,General Biology I Lab,1,1.0,3.0,R,1815  2045,LSCB 0225,,BE,WE,C,STAFF,,,,,38.00,EBLY,24,0
+College of Arts and Sciences,BLY,X,13259,BLY121L,504,General Biology I Lab,1,1.0,3.0,TBA,TBA  TBA,TBA,,BE,WE,C,STAFF,,,,,38.00,EBLY,0,0
+College of Arts and Sciences,BLY,X,13771,BLY121L,505,General Biology I Lab,1,1.0,3.0,TBA,TBA  TBA,TBA,,BE,WE,C,STAFF,,,,,38.00,EBLY,0,0
+College of Arts and Sciences,BLY,A,10640,BLY122,101,General Biology II,1,3.0,3.0,MWF,0800  0850,LSLH 0003,,LE,WE,C,E Itza,,Y,100,,,,155,0
+College of Arts and Sciences,BLY,A,10298,BLY122,501,General Biology II,1,3.0,3.0,W,1800  2030,LSLH 0003,,LE,WE,C,A Littlepage,,Y,100,,,,155,0
+College of Arts and Sciences,BLY,A,14815,BLY122,801,General Biology II,1,3.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,N Hilbun,,Y,100,,,,50,0
+College of Arts and Sciences,BLY,A,14815,BLY122,801,FULLY ONLINE SECTION. This course is offered via Internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,14815,BLY122,801,only and has no scheduled times. USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,14815,BLY122,801,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,14815,BLY122,801,Additional fees may result from online proctoring services.,,,,,,,,,,,,,,,,,,,4
+College of Arts and Sciences,BLY,A,10521,BLY122L,101,General Biology II Laboratory,1,1.0,3.0,T,0800  1030,LSCB 0226,,BE,WE,C,E Itza,O,Y,100,,40.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10649,BLY122L,102,General Biology II Laboratory,1,1.0,3.0,T,1230  1500,LSCB 0226,,BE,WE,C,STAFF,,,,,40.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10651,BLY122L,103,General Biology II Laboratory,1,1.0,3.0,W,0800  1030,LSCB 0226,,BE,WE,C,E Itza,,Y,100,,40.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,11501,BLY122L,104,General Biology II Laboratory,1,1.0,3.0,W,1115  1345,LSCB 0226,,BE,WE,C,E Itza,,Y,100,,40.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,12284,BLY122L,105,General Biology II Laboratory,1,1.0,3.0,W,1430  1700,LSCB 0226,,BE,WE,C,E Itza,,Y,100,,40.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,13862,BLY122L,106,General Biology II Laboratory,1,1.0,3.0,R,0800  1030,LSCB 0226,,BE,WE,C,E Itza,O,Y,100,,40.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,14454,BLY122L,107,General Biology II Laboratory,1,1.0,3.0,R,1230  1500,LSCB 0226,,BE,WE,C,E Itza,,Y,100,,40.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,14927,BLY122L,108,General Biology II Laboratory,1,1.0,3.0,T,1530  1800,LSCB 0226,,BE,WE,C,E Itza,,Y,100,,40.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10299,BLY122L,501,General Biology II Laboratory,1,1.0,3.0,R,1800  2030,LSCB 0226,,BE,WE,C,E Itza,,Y,100,,40.00,EBLY,24,0
+College of Arts and Sciences,BLY,A,10300,BLY207,801,Biology of Aging,1,3.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,L Russell,,Y,100,,,,0,0
+College of Arts and Sciences,BLY,A,10300,BLY207,801,FULLY ONLINE SECTION. This course is offered via Internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10300,BLY207,801,only and has no scheduled times. USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10300,BLY207,801,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,12961,BLY213,101,Microbiology,1,3.0,3.0,TR,0930  1045,LSLH 0003,,LE,WE,C,T Hamil,,Y,100,,,,155,0
+College of Arts and Sciences,BLY,A,14942,BLY213,805,Microbiology,1,3.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,T Hamil,,Y,100,,,,65,0
+College of Arts and Sciences,BLY,A,14942,BLY213,805,FULLY ONLINE SECTION. This course is offered via Internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,14942,BLY213,805,only and has no scheduled times. USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,14942,BLY213,805,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,14943,BLY214,802,Lab Studies Microbiology,1,1.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,T Hamil,,Y,100,,,,55,0
+College of Arts and Sciences,BLY,A,14943,BLY214,802,FULLY ONLINE SECTION. This course is offered via Internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,14943,BLY214,802,only and has no scheduled times. USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,14943,BLY214,802,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,14946,BLY214,803,Lab Studies Microbiology,1,1.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,T Hamil,,Y,100,,,,55,0
+College of Arts and Sciences,BLY,A,14946,BLY214,803,FULLY ONLINE SECTION. This course is offered via Internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,14946,BLY214,803,only and has no scheduled times. USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,14946,BLY214,803,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,14944,BLY214,804,Lab Studies Microbiology,1,1.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,T Hamil,,Y,100,,,,55,0
+College of Arts and Sciences,BLY,A,14944,BLY214,804,FULLY ONLINE SECTION. This course is offered via Internet,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,14944,BLY214,804,only and has no scheduled times. USAonline courses are,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,14944,BLY214,804,offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,A,17107,BLY300,101,Ecology,1,3.0,3.0,TR,1530  1645,LSLH 0003,,LE,WE,C,J Henning,,Y,100,,,,80,0
+College of Arts and Sciences,BLY,A,11202,BLY301,101,Cell Biology,1,3.0,3.0,MWF,1430  1520,LSLH 0003,,LE,WE,C,T Sherman,,Y,100,,,,105,0
+College of Arts and Sciences,BLY,A,11433,BLY302,101,Genetics,1,3.0,3.0,MWF,1115  1205,LSLH 0003,,LE,WE,C,J Strickland,,Y,100,,,,95,0
+College of Arts and Sciences,BLY,A,16977,BLY302,802,Genetics,1,3.0,3.0,TBA,TBA  TBA,WEB WEB,,W,WO,C,S Ní Chadhain,,Y,100,,,,50,0
+College of Arts and Sciences,BLY,A,16977,BLY302,802,FULLY ONLINE SECTION.  This course is offered via,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,16977,BLY302,802,Internet only and has no scheduled  times.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,16977,BLY302,802,USA online courses are offered in Canvas.,,,,,,,,,,,,,,,,,,,3
+College of Arts and Sciences,BLY,X,14084,BLY304,101,Exp. Designs in Biology,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,10,0
+College of Arts and Sciences,BLY,A,17113,BLY305,101,Introduction to Evolution,1,3.0,3.0,TR,0930  1045,CB 0160,,LE,WE,C,J Strickland,,Y,100,,,,80,0
+College of Arts and Sciences,BLY,X,15301,BLY310,101,Economic Botany,1,3.0,3.0,TR,1600  1715,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,12208,BLY314,101,Molecular Microbiology - W,1,4.0,6.0,TR,0800  0915,LSCB 0131,O,CE,WE,C,S Ní Chadhain,,Y,100,,75.00,EBLY,15,0
+College of Arts and Sciences,BLY,A,12208,BLY314,101,Molecular Microbiology - W,1,4.0,6.0,W,1115  1345,LSCB 0219,,CE,WE,C,S Ní Chadhain,,Y,100,,75.00,EBLY,15,0
+College of Arts and Sciences,BLY,X,13424,BLY314,102,Molecular Microbiology - W,1,4.0,6.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,75.00,EBLY,0,0
+College of Arts and Sciences,BLY,A,10301,BLY332,101,Biology of Algae,1,4.0,6.0,M,1220  1450,LSCB 0211,,CE,WE,C,K Major,,Y,100,,,,16,0
+College of Arts and Sciences,BLY,A,10301,BLY332,101,Biology of Algae,1,4.0,6.0,MWF,0905  0955,LSCB 0211,,CE,WE,C,K Major,,Y,100,,,,16,0
+College of Arts and Sciences,BLY,A,16715,BLY333,101,Biomedical Ethics - W,1,3.0,3.0,TR,1230  1345,HUMB 0112,O,LE,WE,C,P McElroy,O,Y,100,,,,15,0
+College of Arts and Sciences,BLY,A,16716,BLY333,102,Biomedical Ethics - W,1,3.0,3.0,TR,1100  1215,HUMB 0148,O,LE,WE,C,P McElroy,O,Y,100,,,,16,0
+College of Arts and Sciences,BLY,A,16716,BLY333,102,Cross-listed with PHL 333.102. Credit cannot be received for,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,16716,BLY333,102,both BLY 333.102 and PHL 333.102.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,11547,BLY350,101,Human Physiology,1,3.0,3.0,TR,1100  1215,LSCB 0131,,LE,WE,C,E Itza,,Y,100,,,,35,0
+College of Arts and Sciences,BLY,A,14080,BLY354,101,General Entomology,1,4.0,6.0,T,1430  1700,LSCB 0139,,CE,WE,C,J McCreadie,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,A,14080,BLY354,101,General Entomology,1,4.0,6.0,TR,1100  1215,LSCB 0139,,CE,WE,C,J McCreadie,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,X,16357,BLY354,102,General Entomology,1,4.0,6.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,15537,BLY360,501,Invertebrate Zoology,1,4.0,5.0,M,1800  2030,LSCB 0018,,CE,WE,C,R Moody,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,A,15537,BLY360,501,Invertebrate Zoology,1,4.0,5.0,T,1800  2030,LSCB 0240,,CE,WE,C,R Moody,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,A,14325,BLY411,101,Developmental Biology,1,3.0,3.0,MWF,1115  1205,LSCB 0018,,CE,WE,C,T Tran,O,Y,100,,,,12,0
+College of Arts and Sciences,BLY,X,15158,BLY411,102,Developmental Biology,1,3.0,3.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,X,13420,BLY426,101,Freshwater Ecology,1,3.0,5.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,13462,BLY431,101,Plant Physiology - W,1,4.0,6.0,MWF,1115  1205,LSCB 0131,,CE,WE,C,T Sherman,,Y,100,,22.00,ECPT,20,0
+College of Arts and Sciences,BLY,A,13462,BLY431,101,Plant Physiology - W,1,4.0,6.0,T,1400  1700,LSCB 0237,,CE,WE,C,T Sherman,,Y,100,,22.00,ECPT,20,0
+College of Arts and Sciences,BLY,A,13463,BLY436,101,Animal Physiology - W,1,4.0,7.0,MWF,1220  1310,LSCB 0018,,CE,WE,C,J Perez,,Y,100,,15.00,EBLY,15,0
+College of Arts and Sciences,BLY,A,13463,BLY436,101,Animal Physiology - W,1,4.0,7.0,W,1400  1700,LSCB 0237,,CE,WE,C,J Perez,,Y,100,,15.00,EBLY,15,0
+College of Arts and Sciences,BLY,X,13464,BLY436,102,Animal Physiology - W,1,4.0,7.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,15.00,EBLY,0,0
+College of Arts and Sciences,BLY,A,10302,BLY440,101,Biochemistry I,1,3.0,3.0,TR,0930  1045,CHEM 0201,O,LE,WE,C,L Yet,O,Y,100,,,,33,0
+College of Arts and Sciences,BLY,A,10302,BLY440,101,Cross-listed with CH 440.101. Credit cannot be received,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10302,BLY440,101,for both BLY 440.101 and CH 440.101.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,12955,BLY445,101,Computational Genetics-W,1,3.0,3.0,MWF,0905  0955,LSCB 0241,,CE,WE,C,G Borchert,O,Y,100,,,,8,0
+College of Arts and Sciences,BLY,X,16976,BLY450,101,Animal Behavior,1,4.0,6.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,11688,BLY459,101,General Parasitology,1,4.0,4.0,MWF,1010  1100,LSCB 0018,,CE,WE,C,J O'Brien,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,A,11688,BLY459,101,General Parasitology,1,4.0,4.0,W,1430  1700,LSCB 0240,,CE,WE,C,J O'Brien,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,X,13394,BLY459,102,General Parasitology,1,4.0,4.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,12956,BLY484,101,Conservation Biology,1,3.0,3.0,TR,0800  0915,LSCB 0018,,LE,WE,C,J Henning,,Y,100,,,,35,0
+College of Arts and Sciences,BLY,X,16808,BLY484,102,Conservation Biology,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,X,12643,BLY490,101,Sp Top-Vertebrate Form & Func,1,4.0,4.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,IN,,,0,0
+College of Arts and Sciences,BLY,X,13089,BLY490,102,Sp Top-Generation Emergent -H,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,IN,,,0,0
+College of Arts and Sciences,BLY,X,13974,BLY490,104,Special Topics -Paleobotany,1,4.0,4.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,X,15113,BLY490,106,Sp Top - Dendrology,1,4.0,4.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,17102,BLY490,107,SpTp: Molecular Plant-Microbe,1,3.0,3.0,TR,0930  1045,LSCB 0018,,LE,WE,C,T Tran,,Y,100,,,,12,0
+College of Arts and Sciences,BLY,A,10660,BLY494,101,Directed Studies,1,1.0,3.0,TBA,TBA  TBA,TBA,,DE,WE,C,T Sherman,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10954,BLY494,102,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Henning,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10955,BLY494,103,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,T Sherman,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10957,BLY494,104,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Perez,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10958,BLY494,105,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,J McCreadie,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10959,BLY494,106,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,K Major,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10960,BLY494,107,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Mata,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10961,BLY494,108,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,S Ní Chadhain,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10303,BLY494,109,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,L Frost,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10304,BLY494,110,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,G Borchert,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10662,BLY494,111,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Strickland,,Y,100,DP,,,15,0
+College of Arts and Sciences,BLY,A,10663,BLY494,112,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Perez,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10664,BLY494,113,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,T Sherman,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10969,BLY494,114,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,R Littlefield,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10970,BLY494,115,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,J McCreadie,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10971,BLY494,116,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,K Major,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10972,BLY494,117,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Mata,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10973,BLY494,118,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,S Ní Chadhain,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10974,BLY494,119,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,G Borchert,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,11692,BLY494,120,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Strickland,,Y,100,DP,,,4,0
+College of Arts and Sciences,BLY,A,12423,BLY494,121,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,A Chupp,,Y,100,IN,,,10,0
+College of Arts and Sciences,BLY,A,12633,BLY494,122,Directed Studies,1,1.0,3.0,TBA,TBA  TBA,TBA,,DE,WE,C,R Littlefield,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,12634,BLY494,123,Directed Studies,1,1.0,3.0,TBA,TBA  TBA,TBA,,DE,WE,C,T Sherman,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,12635,BLY494,124,Directed Studies,1,1.0,3.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Mata,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,12636,BLY494,125,Directed Studies,1,1.0,3.0,TBA,TBA  TBA,TBA,,DE,WE,C,T Sherman,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,12637,BLY494,126,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,R Littlefield,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,12638,BLY494,127,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,T Tran,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,12639,BLY494,128,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Henning,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16965,BLY494,129,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,L Frost,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16978,BLY494,130,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,T Tran,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10966,BLY499,101,Honors Research in Biology-H-W,1,1.0,9.0,TBA,TBA  TBA,TBA,,TE,WE,C,T Sherman,,Y,100,DP,15.00,EBLY,5,0
+College of Arts and Sciences,BLY,A,10966,BLY499,101,Restricted to Honors students only.,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10966,BLY499,101,Others require special permission.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10967,BLY499,102,Honors Research in Biology-H-W,1,2.0,9.0,TBA,TBA  TBA,TBA,,TE,WE,C,T Sherman,,Y,100,DP,15.00,EBLY,5,0
+College of Arts and Sciences,BLY,A,10967,BLY499,102,Restricted to Honors students only.,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10967,BLY499,102,Others require special permission.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,10507,BLY499,103,Honors Research in Biology-H-W,1,3.0,9.0,TBA,TBA  TBA,TBA,,TE,WE,C,T Sherman,,Y,100,DP,15.00,EBLY,10,0
+College of Arts and Sciences,BLY,A,10507,BLY499,103,Restricted to Honors students only.,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,10507,BLY499,103,Others require special permission.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,13423,BLY510,101,Prof in Science,1,3.0,3.0,T,0930  1200,LSCB 0211,,LE,WE,C,K Major,,Y,100,,,,15,0
+College of Arts and Sciences,BLY,A,14318,BLY511,101,Developmental Biology,1,3.0,3.0,MWF,1115  1205,LSCB 0018,O,LE,WE,C,T Tran,O,Y,100,,,,3,0
+College of Arts and Sciences,BLY,X,15159,BLY511,102,Developmental Biology,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,14599,BLY520,101,Biometry,1,4.0,4.0,TR,1230  1400,LSCB 0139,,CE,WE,C,J McCreadie,,Y,100,,15.00,ECPT,10,0
+College of Arts and Sciences,BLY,X,13421,BLY526,101,Freshwater Ecology,1,3.0,5.0,TBA,TBA  TBA,TBA,,CE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,X,13979,BLY530,101,Marine Microbial Ecology,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,16857,BLY536,101,Advanced Animal Physiology,1,3.0,3.0,MWF,1220  1310,LSCB 0018,O,LE,WE,C,J Perez,O,Y,100,,,,5,0
+College of Arts and Sciences,BLY,A,11069,BLY540,101,Biochemistry I,1,3.0,3.0,TR,0930  1045,CHEM 0201,O,LE,WE,C,L Yet,O,Y,100,,,,2,0
+College of Arts and Sciences,BLY,A,11069,BLY540,101,Cross-listed with CH 540.101.  Credit cannot be received for,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,11069,BLY540,101,both BLY 540.101 and CH 440.101.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,13422,BLY544,101,Molecular Biology,1,3.0,3.0,TR,1630  1745,LSCB 0131,,LE,WE,C,L Frost,,Y,100,,,,10,0
+College of Arts and Sciences,BLY,X,14078,BLY590,101,Sp Tp-Conservation Genetics,1,4.0,4.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,X,15280,BLY590,102,Special Topics-Lab Curriculum,1,3.0,3.0,TBA,TBA  TBA,TBA,,LE,WE,C,STAFF,,,,,,,0,0
+College of Arts and Sciences,BLY,A,17302,BLY590,103,SpTp: Writing for Biologists,1,3.0,3.0,W,1800  2030,LSCB 0018,,LE,WE,C,J Henning,,Y,100,,,,10,0
+College of Arts and Sciences,BLY,A,10535,BLY594,101,Directed Studies,1,1.0,3.0,TBA,TBA  TBA,TBA,,DE,WE,C,T Sherman,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10536,BLY594,102,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Strickland,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10537,BLY594,103,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Henning,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,10968,BLY594,104,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Perez,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,11169,BLY594,105,Directed Studies,1,1.0,3.0,TBA,TBA  TBA,TBA,,DE,WE,C,STAFF,,,,DP,,,5,0
+College of Arts and Sciences,BLY,A,11170,BLY594,106,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,J McCreadie,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,11171,BLY594,107,Directed Studies,1,3.0,3.0,TBA,TBA  TBA,TBA,,DE,WE,C,R Littlefield,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,12650,BLY594,108,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,S Ní Chadhain,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,12666,BLY594,109,Directed Studies,1,1.0,3.0,TBA,TBA  TBA,TBA,,DE,WE,C,STAFF,,,,DP,,,5,0
+College of Arts and Sciences,BLY,A,12667,BLY594,110,Directed Studies,1,2.0,6.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Perez,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,12668,BLY594,111,Directed Studies,1,3.0,9.0,TBA,TBA  TBA,TBA,,DE,WE,C,J Strickland,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,12668,BLY594,111,FACE-TO-FACE SECTION. This course meets on campus at the,,,,,,,,,,,,,,,,,,,1
+College of Arts and Sciences,BLY,A,12668,BLY594,111,scheduled times.,,,,,,,,,,,,,,,,,,,2
+College of Arts and Sciences,BLY,A,16809,BLY594,112,Directed Studies -,1,1.0,3.0,TBA,TBA  TBA,LSCB,,DE,WE,C,S Ní Chadhain,,Y,100,DP,,,10,0
+College of Arts and Sciences,BLY,A,16810,BLY594,113,Directed Studies -,1,2.0,3.0,TBA,TBA  TBA,LSCB,,DE,WE,C,S Ní Chadhain,,Y,100,DP,,,10,0
+College of Arts and Sciences,BLY,A,16811,BLY594,114,Directed Studies -,1,3.0,3.0,TBA,TBA  TBA,LSCB,,DE,WE,C,T Tran,,Y,100,DP,,,10,0
+College of Arts and Sciences,BLY,A,10305,BLY599,101,Thesis,1,1.0,1.0,TBA,TBA  TBA,TBA,,TE,WE,C,T Sherman,,Y,100,DP,,,10,0
+College of Arts and Sciences,BLY,A,10676,BLY599,102,Thesis,1,2.0,2.0,TBA,TBA  TBA,TBA,,TE,WE,C,T Sherman,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,11292,BLY599,103,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,T Sherman,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16581,BLY599,104,Thesis,1,1.0,1.0,TBA,TBA  TBA,TBA,,TE,WE,C,A Chupp,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16582,BLY599,105,Thesis,1,2.0,2.0,TBA,TBA  TBA,TBA,,TE,WE,C,A Chupp,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16583,BLY599,106,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,A Chupp,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16584,BLY599,107,Thesis,1,1.0,1.0,TBA,TBA  TBA,TBA,,TE,WE,C,J Henning,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16585,BLY599,108,Thesis,1,2.0,2.0,TBA,TBA  TBA,TBA,,TE,WE,C,J Henning,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16586,BLY599,109,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,J Henning,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16587,BLY599,110,Thesis,1,1.0,1.0,TBA,TBA  TBA,TBA,,TE,WE,C,R Littlefield,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16588,BLY599,111,Thesis,1,2.0,2.0,TBA,TBA  TBA,TBA,,TE,WE,C,R Littlefield,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16589,BLY599,112,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,R Littlefield,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16590,BLY599,113,Thesis,1,1.0,1.0,TBA,TBA  TBA,TBA,,TE,WE,C,K Major,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16591,BLY599,114,Thesis,1,2.0,2.0,TBA,TBA  TBA,TBA,,TE,WE,C,K Major,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16592,BLY599,115,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,K Major,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16593,BLY599,116,Thesis,1,1.0,1.0,TBA,TBA  TBA,TBA,,TE,WE,C,J McCreadie,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16594,BLY599,117,Thesis,1,2.0,2.0,TBA,TBA  TBA,TBA,,TE,WE,C,J McCreadie,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16595,BLY599,118,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,J McCreadie,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16597,BLY599,119,Thesis,1,1.0,1.0,TBA,TBA  TBA,TBA,,TE,WE,C,S Ní Chadhain,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16598,BLY599,120,Thesis,1,2.0,2.0,TBA,TBA  TBA,TBA,,TE,WE,C,S Ní Chadhain,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16599,BLY599,121,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,S Ní Chadhain,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16600,BLY599,122,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,STAFF,,,,DP,,,0,0
+College of Arts and Sciences,BLY,A,16601,BLY599,123,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,J Henning,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16602,BLY599,124,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,R Littlefield,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16603,BLY599,125,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,K Major,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16604,BLY599,126,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,J McCreadie,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16605,BLY599,127,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,S Ní Chadhain,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16606,BLY599,128,Thesis,1,1.0,1.0,TBA,TBA  TBA,TBA,,TE,WE,C,J Perez,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16607,BLY599,129,Thesis,1,2.0,2.0,TBA,TBA  TBA,TBA,,TE,WE,C,J Perez,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16608,BLY599,130,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,J Perez,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16609,BLY599,131,Thesis,1,1.0,1.0,TBA,TBA  TBA,TBA,,TE,WE,C,J Strickland,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16610,BLY599,132,Thesis,1,2.0,2.0,TBA,TBA  TBA,TBA,,TE,WE,C,J Strickland,,Y,100,DP,,,5,0
+College of Arts and Sciences,BLY,A,16611,BLY599,133,Thesis,1,3.0,3.0,TBA,TBA  TBA,TBA,,TE,WE,C,J Strickland,,Y,100,DP,,,5,0
