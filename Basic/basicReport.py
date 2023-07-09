@@ -37,6 +37,9 @@ except Exception as exception:
     print(exception.__class__.__name__ + ": " + exception.message)
 
 
+# Debug flag to print out courses not added to course list (0 = off, 1 = on)
+DEBUG = 0
+
 
 #========================================================================================
 # Functions defined to setup matplot prowIN output 
@@ -90,7 +93,7 @@ def plotCourses(CourseList, TestAxis, InstructorList):
                     count = count + 1
             concurCourses[day, int((timeSlot - 7) * 60)] = count
     
-    #plot each course on its rspective graph
+    #plot each course on its respective graph
     for course in CourseList:
         if (course.BeginTime != None and course.EndTime != None):
             beginTIndex = int((course.BeginTime - 7) * 60)
@@ -226,6 +229,8 @@ ELSCB240Courses = []
 ELSCB241Courses = []
 LSLH3Courses = []
 
+notCaught = []
+
 typeList = [BLYCourses,Level101_102Courses,Level121_122Courses,Level300Courses,Level400Courses,
     Level500Courses,Level300and400Courses,Core_Courses,ELSCB18Courses,ELSCB43Courses,ELSCB45Courses,
     ELSCB119Courses,ELSCB131Courses,ELSCB139Courses,ELSCB142Courses,ELSCB144Courses,ELSCB211Courses,
@@ -258,7 +263,7 @@ for course in courseList:
     if (float(course.COURSE) >= 300 and float(course.COURSE) < 306):
         Core_Courses.append(course)
         
-    if course.BUILDING == 'LSCB' or 'ELSCB':
+    if course.BUILDING == 'ELSCB':
         if (course.ROOM == 18):
             ELSCB18Courses.append(course)
         if (course.ROOM == 43):
@@ -292,6 +297,13 @@ for course in courseList:
     elif course.BUILDING == 'LSLH':
         if (course.ROOM == 3):
             LSLH3Courses.append(course)
+    else:
+        notCaught.append(course.CRN)
+
+
+if DEBUG:
+    print(notCaught)
+
 
 #========================================================================
 # Make PDF and the save each figure to a new page
